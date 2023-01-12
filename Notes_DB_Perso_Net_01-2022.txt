@@ -1,0 +1,24 @@
+(1) -> Réseaux perso dynamique : ok
+
+- Formation (année / établissement)
+
+- Entrée (promotion par année d'entrée)
+
+- Avancement IGF (année)
+
+
+(2) -> Réseaux inter-orga : 
+
+relation entre A et B si IF passe de A à B (carrière) par année
+
+
+PAPIER 2 :
+[Carrière (par année)] ?
+
+
+
+
+
+
+
+
